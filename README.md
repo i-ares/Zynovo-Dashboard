@@ -24,7 +24,7 @@ ZYNOVO is a Streamlit-based dashboard that provides comprehensive analytics and 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/i-ares/Zynovo-Dashboard.git
-   cd MF-dashboard
+   cd Zynovo-Dashboard
    ```
 
 2. **Create and activate a virtual environment:**
