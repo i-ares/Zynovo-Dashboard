@@ -23,7 +23,7 @@ ZYNOVO is a Streamlit-based dashboard that provides comprehensive analytics and 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/i-ares/MF-dashboard.git
+   git clone https://github.com/i-ares/Zynovo-Dashboard.git
    cd MF-dashboard
    ```
 
@@ -52,7 +52,7 @@ ZYNOVO is a Streamlit-based dashboard that provides comprehensive analytics and 
 ## Project Structure
 
 ```
-MF-dashboard/
+Zynovo-Dashboard/
 ├── dashboard.py         # Main Streamlit app
 ├── mfenv/              # Python virtual environment (not needed in repo)
 ```
